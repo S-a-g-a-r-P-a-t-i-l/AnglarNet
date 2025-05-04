@@ -1,0 +1,6 @@
+<div class="row">
+    <div *ngFor="let Property of Properties$ | async" class="shadow-lg col-sm-4">
+
+        <app-property-card [Property]="Property"></app-property-card>
+</div>
+</div>
