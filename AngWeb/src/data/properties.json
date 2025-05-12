@@ -1,14 +1,14 @@
 [
     {
-      "id" : 1,
-      "name" : "Sagar",
-      "type" : "House",
-      "price" : 12000
+      "Id" : 1,
+      "Name" : "Sagar",
+      "Type" : "House",
+      "Price" : 12000
     },
     {
-      "id" : 1,
-      "name" : "Kartik",
-      "type" : "House",
-      "price" : 10000
+      "Id" : 1,
+      "Name" : "Kartik",
+      "Type" : "House",
+      "Price" : 10000
     }
 ]
